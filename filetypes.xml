@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="main" type="JavaScript" />
+      <mapping pattern="Viz" type="JavaScript" />
+      <mapping pattern="test2" type="JavaScript" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
